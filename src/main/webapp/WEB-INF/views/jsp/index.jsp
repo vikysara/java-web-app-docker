@@ -40,8 +40,11 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Vignesh Technologies.</h2>
+			<h2>Welcome To Vignesh Devops engineer.</h2>
 			<h3>Contact @ +91-7418939763</h3>
+                        <h4>Mail Id @ vikyisin@gmail.com</h4>
+                        <h5>Address @velacherry, vijaynagar, chennai</h5>
+
 		</div>	
 	</div>
 
